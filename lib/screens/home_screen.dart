@@ -27,6 +27,7 @@ class HomeScreen extends StatelessWidget {
                 )
               ]),
         ),
+        // floatingActionButtonLocation: FloatingActionButtonLocation.miniCenterDocked,
         floatingActionButton: FloatingActionButton(
           child: const Icon(
             Icons.add,
