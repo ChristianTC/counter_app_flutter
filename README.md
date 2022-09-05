@@ -1,4 +1,5 @@
 # counter_app
+![image](https://user-images.githubusercontent.com/28512795/188500806-a83b88c1-0258-4b27-be3f-a02838532956.png)
 
 A new Flutter project.
 
