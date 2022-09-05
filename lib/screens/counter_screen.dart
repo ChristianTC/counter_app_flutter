@@ -40,7 +40,7 @@ class _CounterScreenState extends State<CounterScreen> {
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
                 const Text(
-                  'Clicks Counter',
+                  'Clicks number',
                   style: fontSize30,
                 ),
                 Text(
